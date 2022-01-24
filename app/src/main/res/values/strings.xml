@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BiodataAndroid</string>
+    <string name="nama">Nama</string>
+    <string name="TTL">TTL</string>
+    <string name="kelas">Kelas</string>
+    <string name="alamat">Alamat</string>
+    <string name="hobi">Hobi</string>
+    <string name="btn_calculate">save</string>
+    <string name="result"></string>
+    <string name="tvResult"></string>
+    <string name="tvResulta"></string>
+    <string name="tvResultb"></string>
+    <string name="tvResultc"></string>
+    <string name="tvResultd"></string>
+</resources>
