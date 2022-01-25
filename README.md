@@ -1,8 +1,5 @@
 <h3 align=center>praktikum-Android Biodata</h3>
-<p>>1.Hasil SS</p>
-Cek <a href="https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_20220124_110233.png">disini</a>
-Dan <a href="https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_20220124_110050.png">ini</a>
-  <br>
-  <br>
-  <img src="https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_20220124_110050.png">
-  <img src="https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_20220124_110233.png">
+
+> # Latihan Activity Biologi
+![ssan](https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_2022-01-25-16-59-23-353_www.smktelkom.mlg.sch.id.biodataandroid.jpg?raw=true)
+![ssan](https://github.com/r3nyah/praktikum-AndroidBiodata/blob/master/Assets/Screenshot_2022-01-25-17-00-12-384_www.smktelkom.mlg.sch.id.biodataandroid.jpg?raw=true)
